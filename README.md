@@ -1,5 +1,5 @@
 # Amazon Movie Review Ratings Prediction
-### [FINAL WRITE-UP HERE]()
+### [FINAL WRITE-UP HERE](https://github.com/layadang/amazon-movie-rating-prediction/blob/main/Laya%20CS%20506%20Midterm%20Write-up.pdf)
 
 ## About
 This is the repo for my submission to CS 506 Midterm [Kaggle competition](https://www.kaggle.com/competitions/cs-506-midterm-fall-2024/) for highest accuracy in predicting star rating (out of 5) of Amazon Movie Reviews, given number of helpful votes (`HelpfulnessNumerator`), total votes (`HelpfulnessDenominator`), `Time`, `Text` (user review), and `Summary`. There are a total of 1,485,341 fully labeled data points to work with. No deep-learning (in models or libraries) is allowed.
